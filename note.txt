@@ -1,0 +1,12 @@
+## Native Base
+npm install native-base
+expo install react-native-svg@12.1.1
+expo install react-native-safe-area-context@3.3.2
+
+## React Navigation
+npm install @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+
+# Stack Navigator
+npm install @react-navigation/stack
+expo install react-native-gesture-handler
